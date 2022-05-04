@@ -30,5 +30,3 @@ Se utilizarón algunas validaciones y una expresión regular para reconocer los 
 
 Únicamente se necesita crear el archivo de entrada "input.txt" que es el que contendra los valores en primera instancia desordenados,
 finalmente al correr el script generara el archivo "output.txt" que contendra la solución.
-
-### Autor: Daniel Rubio Ramón
